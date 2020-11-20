@@ -21,7 +21,7 @@ Through rigorous data exploration, the objective was to identify key features wh
 #### Water Source
 
 The top performing features include: Rainwater harvesting, Spring, River / Lake
-(https://github.com/NickCatalano14/dsc-mod-3-project-v2-1-onl01-dtsc-pt-052620/water_source_bar_chart_1.png)
+(water_source_bar_chart_1.png)
 
 
 (https://github.com/NickCatalano14/dsc-mod-3-project-v2-1-onl01-dtsc-pt-052620/water_source_bar_chart_2.png
