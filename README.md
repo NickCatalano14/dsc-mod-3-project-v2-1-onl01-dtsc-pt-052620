@@ -25,7 +25,6 @@ The top performing features include: Rainwater harvesting, Spring, River / Lake
 
 
 
-
 The water source features will be binned by features with less than 65% functioning wells and greater than 65% function wells, as can be seen by the second bar chart above.  This method of binning helps to drive the feature importance for the model.
 
 #### Payment
