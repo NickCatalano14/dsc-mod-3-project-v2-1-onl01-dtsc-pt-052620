@@ -22,7 +22,7 @@ Through rigorous data exploration, the objective was to identify key features wh
 
 The top performing features include: Rainwater harvesting, Spring, River / Lake
 
-
+![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-mod-2-project-v2-1/master/halfway-there.gif)
 
 
 The water source features will be binned by features with less than 65% functioning wells and greater than 65% function wells, as can be seen by the second bar chart above.  This method of binning helps to drive the feature importance for the model.
