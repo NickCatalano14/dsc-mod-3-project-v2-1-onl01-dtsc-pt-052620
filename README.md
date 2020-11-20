@@ -34,7 +34,7 @@ Similary to water source, the method of payment greatly influenced the models pe
 
 ![image.png](https://github.com/NickCatalano14/dsc-mod-3-project-v2-1-onl01-dtsc-pt-052620/blob/926ba615ca7cfbad739699199600fa70c57b950e/payment_1png.png?raw=true)
 
-![image.png](https://github.com/NickCatalano14/dsc-mod-3-project-v2-1-onl01-dtsc-pt-052620/blob/926ba615ca7cfbad739699199600fa70c57b950e/payment_1.png?raw=true)
+![image.png](https://github.com/NickCatalano14/dsc-mod-3-project-v2-1-onl01-dtsc-pt-052620/blob/926ba615ca7cfbad739699199600fa70c57b950e/payment_2.png?raw=true)
 
 
 The water source features will be binned by features with less than 70% functioning wells and greater than 70% function wells, as can be seen by the second bar chart above.
